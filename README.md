@@ -1,1 +1,1 @@
-# react-ss-spa
+# react-js-spa
